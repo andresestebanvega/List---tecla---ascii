@@ -11,13 +11,13 @@ int main() {
     Numero n1(52);
     n1.mostrar();
 
-    Numero n2("5");
+    Numero n2('5');
     n2.mostrar();
 
     Letra l1(65);
     l1.mostrar();
 
-    Letra l2("B");
+    Letra l2('B');
     l2.mostrar();
     cout<<"--------------------------------------------"<<endl;
     //CARGA AUTOMATICA - FORMA 1 - POR FOR

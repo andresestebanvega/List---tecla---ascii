@@ -11,11 +11,11 @@ using namespace std;
 class Letra:public Tecla {
 public:
     Letra(int);
-    Letra(string);
+    Letra(char);
     ~Letra();
 
-    string convertirAAscii(int);
-    int convertirANumero(string);
+    char convertirAAscii(int);
+    int convertirANumero(char);
 };
 
 

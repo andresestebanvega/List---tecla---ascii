@@ -7,12 +7,8 @@
 using namespace std;
 
 
-Tecla::Tecla(int num) {
-    this->num=num;
-}
-Tecla::Tecla(string nombre) {
-    this->nombre=nombre;
-}
+Tecla::Tecla() {}
+
 Tecla::~Tecla() {
 
 }
