@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/Letra.cpp" "CMakeFiles/Templatecpp.dir/Letra.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Letra.cpp.obj.d"
-  "C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/Numero.cpp" "CMakeFiles/Templatecpp.dir/Numero.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Numero.cpp.obj.d"
-  "C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/Tecla.cpp" "CMakeFiles/Templatecpp.dir/Tecla.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Tecla.cpp.obj.d"
-  "C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/main.cpp" "CMakeFiles/Templatecpp.dir/main.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/main.cpp.obj.d"
+  "C:/git hub/List---tecla---ascii/Letra.cpp" "CMakeFiles/Templatecpp.dir/Letra.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Letra.cpp.obj.d"
+  "C:/git hub/List---tecla---ascii/Numero.cpp" "CMakeFiles/Templatecpp.dir/Numero.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Numero.cpp.obj.d"
+  "C:/git hub/List---tecla---ascii/Tecla.cpp" "CMakeFiles/Templatecpp.dir/Tecla.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/Tecla.cpp.obj.d"
+  "C:/git hub/List---tecla---ascii/main.cpp" "CMakeFiles/Templatecpp.dir/main.cpp.obj" "gcc" "CMakeFiles/Templatecpp.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

@@ -8,6 +8,13 @@ using namespace std;
 
 int main() {
     //CARGA MANUAL
+
+    Tecla t1(35);
+    t1.mostrar();
+
+    Tecla t2(36);
+    t2.mostrar();
+
     Numero n1(52);
     n1.mostrar();
 

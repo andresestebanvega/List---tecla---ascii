@@ -18,6 +18,4 @@ public:
     int convertirANumero(char);
 };
 
-
-
 #endif //TEMPLATECPP_LETRA_H
