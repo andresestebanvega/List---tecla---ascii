@@ -12,11 +12,11 @@ class Numero:public Tecla {
 
 public:
     Numero(int);
-    Numero(string);
+    Numero(char);
     ~Numero();
 
-    string convertirAAscii(int);
-    int convertirANumero(string);
+    char convertirAAscii(int);
+    int convertirANumero(char);
 };
 
 

@@ -8,31 +8,30 @@
 using namespace std;
 
 class Tecla {
-private:
+protected:
     int num;
-    string nombre;
+    char nombre;
 public:
 
-    Tecla(int);
-    Tecla(string);
-    ~Tecla();
+    Tecla();
+    virtual ~Tecla();
     void mostrar();
     void setNum(int);
-    void setNombre(string);
+    void setNombre(char);
     int getNum();
-    string getNombre();
+    char getNombre();
 
 };
 inline void Tecla::setNum(int num) {
     this->num=num;
 }
-inline void Tecla::setNombre(string nombre) {
+inline void Tecla::setNombre(char nombre) {
     this->nombre=nombre;
 }
 inline int Tecla::getNum() {
     return num;
 }
-inline string Tecla::getNombre() {
+inline char Tecla::getNombre() {
     return nombre;
 }
 

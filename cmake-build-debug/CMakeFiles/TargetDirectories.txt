@@ -1,3 +1,3 @@
-C:/FIE/git/List---tecla---ascii/cmake-build-debug/CMakeFiles/Templatecpp.dir
-C:/FIE/git/List---tecla---ascii/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/FIE/git/List---tecla---ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/cmake-build-debug/CMakeFiles/Templatecpp.dir
+C:/Users/Usuario/FIE/Practica Paradigmas III/List---tecla---ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
